@@ -24,6 +24,10 @@ Clone the repository:
   $ yarn test # or npm test
 
   # Start Front-end
-  $ yarn dev # or npm dev
+  $ yarn start # or npm start
 
 ```
+
+  Attention: You need the back-end running to create new repositories.
+  
+  Check it out here: https://github.com/paulo-carvalho93/conceitos-nodejs
